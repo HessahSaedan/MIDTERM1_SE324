@@ -23,6 +23,7 @@ public class SplashScreen extends AppCompatActivity {
         getSupportActionBar().setHomeAsUpIndicator(R.drawable.ic_action_hs);
         //getSupportActionBar().setDisplayUseLogoEnabled(true);
 
+        TextView Teext1 = (TextView) findViewById(R.id.textView1);
         TextView time = (TextView) findViewById(R.id.time);
         TimerTask Task = new TimerTask() {
             @Override

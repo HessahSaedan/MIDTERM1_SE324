@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">_HISSAHSAIDAN_MIDTERM1_SE324</string>
     <string name="Timer"></string>
+    <string name="TEXT1">your in screen 1</string>
+    <string name="TEXT2">your in screen 2</string>
+    <string name="TEXT3">your in screen 3</string>
 </resources>
